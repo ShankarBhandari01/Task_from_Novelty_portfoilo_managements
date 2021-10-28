@@ -1,5 +1,5 @@
 ## Author
-        This is project is developed and designed by `Shankar Bhandari`
+        This project is developed and designed by `Shankar Bhandari`
 ## Available Scripts
 
 In the project directory, you can run:
